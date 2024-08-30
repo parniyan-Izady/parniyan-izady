@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm Parniyan, a Software student 🚀 from Iran.<br><br>Talking about Personal Topics:<br>🌱 I’m currently learning web design and it's frameworks<br>💬 Ask me about java<br>📫You can contact me at parniyanizady@gmail.com</h4>
+<h4 align="left">I'm Parniyan, a Software student 🚀 from Iran.<br><br>Talking about Personal Topics:<br>💬 Ask me about java<br>📫You can contact me at parniyanizady@gmail.com</h4>
 
 ###
 
